@@ -1,2 +1,2 @@
-# apache_guacamole
-Apache Guacamole
+# Docker Compose Apache Guacamole
+Docker compose file for Apache Guacamole
